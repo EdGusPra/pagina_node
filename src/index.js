@@ -39,5 +39,5 @@ app.use(require("./routes/routes.js"));
 
 //puerto
 app.listen(app.get("port"),()=>{
-    console.log("server funcionando 1");
+    console.log("server funcionando");
 });
